@@ -1,0 +1,8 @@
+E:\проекты\anr\anr\bin\Debug\anr.exe.config
+E:\проекты\anr\anr\bin\Debug\anr.exe
+E:\проекты\anr\anr\bin\Debug\anr.pdb
+E:\проекты\anr\anr\obj\Debug\anr.csproj.AssemblyReference.cache
+E:\проекты\anr\anr\obj\Debug\anr.csproj.SuggestedBindingRedirects.cache
+E:\проекты\anr\anr\obj\Debug\anr.csproj.CoreCompileInputs.cache
+E:\проекты\anr\anr\obj\Debug\anr.exe
+E:\проекты\anr\anr\obj\Debug\anr.pdb
